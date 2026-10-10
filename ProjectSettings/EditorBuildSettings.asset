@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Laberinto.unity
+    path: Assets/Forest_scene_unity/Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
     path: Assets/Scenes/LaboratoryPA3.unity
     guid: 53ce9c79b11238b449e09ea5223004c6
   - enabled: 1
     path: Assets/Scenes/Escenario2.unity
-    guid: 8c2b19c9989d19644a904df833d6fc91
+    guid: cfd34c4cc169db5458d1190c934890ab
+  - enabled: 1
+    path: Assets/Scenes/Escenario3.unity
+    guid: 3990d7df4d8351049b6d1fb7796604ac
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
